@@ -13,32 +13,20 @@ The PRIDE Database is a leading repository for mass spectrometry-based proteomic
 
 ## Getting Started 👀
 
-### For Contributors
-
-1. **Set Up Your Environment**
-   - Fork the desired repository
-   - Clone your fork locally
-   - Install required dependencies (see project-specific README)
-
-2. **Development Guidelines**
-   - Follow our coding standards (see `CONTRIBUTING.md`)
-   - Write unit tests for new features
-   - Document your code using standard documentation formats
-   - Submit pull requests against the `dev or develop` branch
-
-3. **Code Review Process**
-   - All changes require peer review
-   - CI/CD checks must pass
-   - Documentation must be updated when applicable
+- Fork the desired repository
+- Clone your fork locally
+- Install required dependencies (see project-specific README)
+- Write unit tests for new features
+- Document your code using standard documentation formats
+- Submit pull requests against the `dev or develop` branch
+- All changes require peer review
+- CI/CD checks must pass
+- Documentation must be updated when applicable
 
 ### Important Links
 - [PRIDE Archive Website](https://www.ebi.ac.uk/pride/)
-- [Data Submission Guidelines](https://www.ebi.ac.uk/pride/markdownpage/submitdatapage)
-- [Support Contact](https://www.ebi.ac.uk/pride/markdownpage/contact)
-
-### Communication
-
-GitHub Discussions: Join our workspace at `[GitHub discussions](https://github.com/orgs/PRIDE-Archive/discussions)`
+- [PRIDE Documentation](https://www.ebi.ac.uk/pride/markdownpage/documentationpage)
+- GitHub Discussions: Join our disussions at [GitHub discussions](https://github.com/orgs/PRIDE-Archive/discussions)
 
 ## Team Culture 🍪
 
@@ -52,7 +40,7 @@ Fun fact: Our team's favorite coding fuel is a mix of coffee and Tea with a lot 
 
 ## How to Contribute
 
-1. Check our [Issues](https://github.com/PRIDE-Database/pride-archive/issues) page
+1. Check a repository
 2. Pick an issue or propose a new feature
 3. Follow our contribution guidelines
 4. Submit your pull request
